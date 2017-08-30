@@ -1,7 +1,7 @@
 # AppCambio
 App Cambio - Java Swing - NetBeans IDE 8.2
 
-	![Screenshot](screenshots/tela01.jpg)
+![Screenshot](screenshots/tela01.jpg)
   
   public class Cambio {
 
